@@ -1,0 +1,4 @@
+interface:
+  display_name: "可视化方案调研报告"
+  short_description: "制作黑白灰配亮绿色、连续滚动、研究在前选型在后的可视化报告"
+  default_prompt: "使用 $visual-research-report 将提供的调研内容整理为连续阅读的 HTML 可视化报告和 Markdown 技术方案。"
